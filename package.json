@@ -1,0 +1,27 @@
+{
+  "name": "ignite-firebase",
+  "version": "1.0.0",
+  "description": "Ignite shop Firebase functions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgniteShop/ignite-firebase.git"
+  },
+  "keywords": [
+    "ignite",
+    "firebase"
+  ],
+  "author": "ignite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgniteShop/ignite-firebase/issues"
+  },
+  "homepage": "https://github.com/IgniteShop/ignite-firebase#readme",
+  "dependencies": {
+    "firebase": "^8.0.1"
+  }
+}
